@@ -1,0 +1,62 @@
+My Actual Complaints:
+- Manuevering in combat is, to a degree, pointless, and is utilized for the wrong reasons.
+	- You can break up your movement as much as you please. Obstacles you can hide behind give you protection from attacks, and these are COMMON. Hiding behind these will actually just allow you take other actions, at the expense of doing damage, without being hit.
+	- Range no longer exists! Anyone can hit the enemy within " a reasonable distance ", unless you're mapping. Then it's alright.
+	- Additionally if you've manuevered in an abstract or unclear way, you may revert it at any time. But if you're taking actions canon to the world, you must stay canon in that position.
+	- After combat concludes, everyone (unless otherwise clarified) will be conjoined to one party.
+- Spellcasting classes take monstrous amounts of time to learn and make decisions for during combat. All of this time is not worth the complications.
+	- Simplify spellcasting to a few basic actions. Remove spell slots. Add mana cost and mana limits. Remove material casting. All spells require hand and mouth movements, so if either is bound they cannot be made.
+- Conflicts over rules result in multi-minute long drains.
+	- Tie goes to the runner! Give the benefit of the doubt to the actioneer ALWAYS.
+- Splitting the party results in half the party being bored all the time.
+	- Simply don't ever do this, or alternatively, split the party into one half recon team, one half strike team, that work together. See the later note about communications to effectively acheive this.
+- Enemies are basic and have no strategy to their combat.
+	- Remedy this with more complicated enemies that can't be killed with "a sword." Consider: giant metal goliaths.
+- Players are at unequal levels of power, due to the unnessesarily complicated architecture of DND.
+	- Simplify player levelling. Remove extraneous abilities like Extra Attack. Remove handedness, and two-handed rules. Event-based levelling.
+- DMs doing attack descriptions spend more time than they are worth.
+	- Simply don't.
+	- Like, seriously, this takes a lot of time, and although they're cool, they're also pretty tedious.
+- There should be more humor in the game than not, especially during combat.
+	- Do not fall back to "character misses in a """""funny""""" way."
+- There are few suprises, other than "a large monster appears"
+	- Betrayal
+	- Kill a character.
+	- Destroy all players' items.
+	- Massive world events, not caused by the players.
+- DMs do not provide enough direction.
+	- Set a singular, clear goal. If you give players multiple options, be specific. Do not be vague. Tell them what will and won't work.
+- Prepping enemies and statblocks is not a good time.
+	- Enemies can take a few actions, bonus actions, and reactions. They have no other stats other than damage and range. No defined, explicit resistances. That is all.
+	- See below vvv
+- Different types of attacks, spells, and damage cause drains when combined with resistances.
+	- Remove them! Melee weapons are: SHARP or BLUNT. Magic weapons are: HOT or COLD, or POISONOUS. Ranged weapons are: RANGED (CRAZY i know).
+	- Resistances are innate, and undefined. If an enemy is made of metal, sharp weapons probably aren't gonna work. Nor would cold weapons be useful on a ice wizard.
+	- Resistances ARE defined for PCs, cause, duh.
+- DMs lack the ability to balance combat in the players' favor during a fight.
+	- Deus-ex Potion of a Whole Bunch of Damage.
+	- Inspiration
+- If a player knows about a goal in a meta-context, and is investigating a different way to find that goal in canon, the player loses all immersion in their current activities.
+	- Give the players a silent communication system such as:
+		- Hand signs
+		- Radios
+		- Telepathy
+- Turns have no time limit for making decisions, and attacks are not prepped beforehand.
+	- 45 seconds each. If you fail to meet the limit, your turn is skipped.
+- Every character must want to murder things all the time, otherwise there wouldn't be any combat.
+	- Instantly reprimand the characters, in-world, for their actions if they choose this route.
+- There are no moral, ethical, or philosophical dilemmas.
+	- Add some.
+- All players know everything about the world that anyone else knows.
+	- Tell certain players secrets and do not tell other players.
+- There is no betrayal, social interaction that carries meaning, or emotional development.
+	- Note System:
+		- Any player can pass a note to another player AND the DM, or just the DM. The DM can also give any player a note. These are useful for: planning plot points WITH the characters. Implementing betrayal. Deciding definitively how character interactions will work BEFORE doing them, avoiding the weird part of between character interactions where they hash out how their situation would actually work.
+- Individual inventory causes problems when no one knows who has what.
+	- Group Inventory. Even during battle. Things cannot be put in the inventory during battle, only withdrawn.
+- Spell lists are annoying, complicated, and players don't even really know which ones to pick. Also, picking spells every day is annoying and absurd.
+	- Shorten the list. 
+	- Remove schools of magic. 
+	- Get rid of stupid things like that.
+- There is no science or technology in the world. If they can make magical things, why on earth would there not be more useful things like this!
+	- Dang, bro, add some.
