@@ -4,19 +4,6 @@ The [[Arkhaos Cloud]] threatens to turn every living thing into a servant of doo
 
 It is unknown which of the two religions was founded first. Sects of both seek to end the Arkhaos cloud and return life to normalcy. The question is, who is right?
 
-Quick Link: [[Book of Light (Abridged)]]
-Quick Link: [[Lani'okaja]]
-Quick Link: [[Book of Dooms]]
-
-Quick Link: [[Stalism]]
-Quick Link: [[Arkhism]]
-Quick Link: [[Energism]]
-Quick Link: [[Pure Seerism]]
-
-Quick Link: [[Pure Laniism]]
-Quick Link: [[Petoism]]
-
-
 ![[Seerism]]
-
 ![[Laniism]]
+
