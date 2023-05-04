@@ -11,8 +11,11 @@ This is synced with my personal wiki for the campign so I'll likely not forget t
 
 ### Latest Addition:
 [[Religion]]
+[[Krickee's Guide ter' Stoppin' the Storm]]
 
 ## Major Points of Notice
 - [[Religion]]
+- [[Krickee's Guide ter' Stoppin' the Storm]]
+- 
 
 
