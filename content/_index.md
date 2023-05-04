@@ -4,6 +4,8 @@ tags:
 - world
 - religion
 - storm
+- relics
+- religious text
 ---
 
 Heyo! Welcome to the Tom's Foolery Wiki!
