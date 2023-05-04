@@ -1,3 +1,10 @@
+---
+title: "Tom's Foolery"
+tags:
+- religion
+- storm
+- religious text
+---
 >Whimsy
 
 Avast ye merry people of the land, the world, and the sky.
@@ -11,6 +18,7 @@ Dark times advance with the rise and fall of the sky's light, yea, even the ligh
 And the land was broke amongst them, the one converged to four, and the might and power divided into - amongst and within - the four.
 
 And these four were.
+And Eylant was.
 
 And they were Arkhaos, and Vishna, and Kashna, and Stalnir.
 And the one from which it all became, the Overseer, did become as well.
@@ -26,7 +34,7 @@ Together with the siblings, save the strongest one of all, came the darkness the
 And polarized the blinding good that rests in thirdborn's bosom.
 
 And so the storm comes closer now, beyond the skydom's reach.
-The four keys remaining there, whom seal the divine breach.
+The four keys remaining there, whom seal divine breach.
 
 
 

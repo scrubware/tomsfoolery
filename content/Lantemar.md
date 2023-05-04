@@ -11,12 +11,12 @@ Mulakar (Human)
 Moonbrook (Elven)
 The Great Oak (High Elven)
 
-Firestone (Dragonborn)
+Annelundra (Dragonborn)
 Turnuroth (Dragonborn)
 
 Timber's Den (Gnomish)
-Folkor's Den (Rock Gnomish)
+Folklin's Den (Rock Gnomish)
 
-Morthos (Tiefling Cultists)
+Myuirtos (Tiefling Cultists)
 
 Other races live on Lantemar but none have built kingdoms on the scale of these 10.

@@ -4,10 +4,10 @@
 	- Exists above the material plane. All deities and Quasi-deities live here.
 - Arkhamar – Magical Plane
 	- A sector of Akamar, this is where magical power is pulled from.
-- Leyanar - Lean Plane
-	- Hot sexy LEAN GODDESS - Written by Tanner.
+- Leyanar - Imperfection Plane
+	- A plane made manifest as the inverse to Laniist "Thesis of the Air" (see [[Lani'okaja Theses]]), or the genesis from Arkhaos, it is the place where imperfection lies. Some choose to embrace this and seek out this plane. It is a deep purple, crystalline place, made of abstract vice manifest.
 - Deiusmar – Death Plane
-	- Souls immediately enter this realm after death. Depending on which religion you believe, souls may be left here for some time or may be transferred through the afterlife.
+	- Souls immediately enter this realm after death. Different sects believe in different purposes of Deiusmar.
 - Eilemar – Elemental Plane
 	- Magical creatures are conjured here.
 	- It is a sector of Arkhamar.

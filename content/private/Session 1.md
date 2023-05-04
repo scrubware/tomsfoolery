@@ -28,7 +28,7 @@ If you manage to contain this storm, I am eternally in your gratitude. We're tal
 
 Think of me as your wishing well. That is, if you can catch lightning in a jar. Metaphorically.
 
-I care not of your religion. Any sect, and belief, any gods. Use the [[Lani'okaja]] for all I care! But heart of mine condemned, I will fulfill your hearts' desires if this quest be fulfilled.
+I care not of your religion. Any sect, and belief, any gods. Use the [[../Lani'okaja Theses]] for all I care! But heart of mine condemned, I will fulfill your hearts' desires if this quest be fulfilled.
 
 Assuming the Book of Light to be true, I have an item you will need in your journey. Take this.
 *The Duke hands the party the Golden String.*

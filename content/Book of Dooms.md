@@ -1,4 +1,10 @@
-
+---
+title: "Tom's Foolery"
+tags:
+- religion
+- storm
+- religious text
+---
 ### An Archivist's Prologue:
 
 > The full magnitude of the Book of Dooms has not been preserved over time. The small fragments and verses contained within this text are considered to be some the most important, or at least, the most well-preserved. These are the core teachings presented to most congegrations of Arkhists, but not neccesarily the only teachings.
