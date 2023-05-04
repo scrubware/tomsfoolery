@@ -1,6 +1,9 @@
 ---
 title: "Tom's Foolery"
 tags:
+- world
+- religion
+- storm
 ---
 
 Heyo! Welcome to the Tom's Foolery Wiki!

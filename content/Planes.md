@@ -1,3 +1,8 @@
+---
+title: "Tom's Foolery"
+tags:
+- world
+---
 - Lant – Physical Plane
 	- This realm holds all physical matter. Extraphysical matter does exist outside of this realm, while physical matter can although it does not.
 - Akamar – Godly Plane

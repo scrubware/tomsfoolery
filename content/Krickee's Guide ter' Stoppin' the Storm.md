@@ -3,6 +3,7 @@ title: "Tom's Foolery"
 tags:
 - storm
 - relics
+- world
 ---
 Well, thar' be quite a few ways to stop the storm milads.
 But I'll be goin' over the methods most prominently discussed.
