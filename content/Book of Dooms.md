@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Book of Dooms"
 tags:
 - religion
 - storm

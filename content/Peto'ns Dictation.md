@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Peto'ns Dictation"
 tags:
 - religion
 - religious text

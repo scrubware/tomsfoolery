@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Religion"
 tags:
 - religion
 ---

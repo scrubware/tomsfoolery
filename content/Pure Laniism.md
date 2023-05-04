@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Pure Laniism"
 tags:
 - religion
 ---

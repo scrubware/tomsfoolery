@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Book of Light"
 tags:
 - religion
 - storm

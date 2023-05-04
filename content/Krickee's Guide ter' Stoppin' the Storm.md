@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Krickee's Guide ter' Stoppin' the Storm"
 tags:
 - storm
 - relics

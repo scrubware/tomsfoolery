@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Seerism (Religion)"
 tags:
 - religion
 ---

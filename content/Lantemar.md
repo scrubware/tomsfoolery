@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Lantemar"
 tags:
 - world
 ---

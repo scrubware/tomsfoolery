@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Stalism"
 tags:
 - religion
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Energism"
 tags:
 - religion
 ---

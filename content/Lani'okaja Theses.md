@@ -1,5 +1,5 @@
 ---
-title: "Tom's Foolery"
+title: "Lani'okaja Theses"
 tags:
 - religion
 - religious text
