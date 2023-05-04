@@ -1,6 +1,7 @@
 ---
 title: "Tom's Foolery"
 tags:
+enableToc: false
 ---
 
 Heyo! Welcome to the Tom's Foolery Wiki!

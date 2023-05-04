@@ -1,6 +1,6 @@
 ### Polytheistic
 
-Seerism is one of the two Major Religions in the world of [[Lantemar]]. Seerists follow the [[Book of Light (Abridged)]] and, in total, six deities:
+Seerism is one of the two Major Religions in the world of [[private/Lantemar|Lantemar]] Seerists follow the [[Book of Light (Abridged)|Book of Light (Abridged)]] and, in total, six deities:
 
  - Arkhaos (Lesser Deity)
 	 - God of Contention, Chaos, and Puzzles.
