@@ -9,19 +9,26 @@ The people who live in the place they call Lantemar know very little about the c
 
 There are nine kingdoms (and one silly group!) of Lantemar.
 
-Damara (Human)
-Rashemla (Human)
-Mulakar (Human)
+- Damara (Human)
+- Rashemla (Human)
+- Mulakar (Human)
+- Moonbrook (Elven)
+- The Great Oak (High Elven)
+- Annelundra (Dragonborn)
+- Turnuroth (Dragonborn)
+- Timber's Den (Gnomish)
+- Folklin's Den (Rock Gnomish)
 
-Moonbrook (Elven)
-The Great Oak (High Elven)
-
-Annelundra (Dragonborn)
-Turnuroth (Dragonborn)
-
-Timber's Den (Gnomish)
-Folklin's Den (Rock Gnomish)
-
-Myuirtos (Tiefling Cultists)
+- Myuirtos (Tiefling Cultists)
 
 Other races live on Lantemar but none have built kingdoms on the scale of these 10.
+
+
+The other places of note in Lantemar are the ruined sites, The Hearth, the Convergence, and Beacon's Edge.
+
+Additionally Lantemar is subject to whims of godly and magical forces.
+- [[Sunnir]]
+- [[Plannir]]
+- [[Eclipses]]
+- [[Planes]]
+- [[Arkhaos Cloud]]

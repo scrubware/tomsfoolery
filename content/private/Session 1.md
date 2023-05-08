@@ -7,13 +7,13 @@ Duke Penchforth proceeds as follows:
 Welcome! Welcome. I've gathered you all here today as a part of my annual givings feast!
 Things are going well this season, so I bear no opening remarks!
 As always, we'll have audiences in groups. Starting with...
-hmm... you six!
+hmm... you eight!
 
 Enjoy the dinner!
 
 ---
 
-You might be thinking. Why you seven?
+You might be thinking. Why you eight?
 Why were we invited to the feast?
 
 Well, I've had my 'eyes in the sky' looking out for potential... recruits
@@ -22,7 +22,18 @@ And you happen to be my picks.
 Have you heard of the news lately?
 The storm from the East. It threatens to ravage my empire. Frankly, I don't see anyone doing anything about it. As a devout Stalist myself, I find it my duty to do something about this.
 
+
+
 *ALLOW INTRODUCTIONS*
+
+And of course, this is Benny. I think you'll all come to quite like Benny. Go ahead, introduce yourself.
+
+Benny
+- Loves drinking and buying drinks for people
+- Caring and kind
+- Mischevious little scamp
+- Friend of the Duke's Son (who is off in battle)
+
 
 If you manage to contain this storm, I am eternally in your gratitude. We're talking money, fortunes, and not only the most attractive women in the region, but the most kindhearted as well.
 
@@ -43,7 +54,8 @@ As you exit the Duke's Feast, you spot a silhouette in the corner, that seems to
 
 Later, the group encounters a salesman.
 "Hey. Hey! You guys heard about the Doomstorm? It's coming to ravage the town!"
-"I wish someone could "
+
+"Now look, I know a guy who can you get you outa here! Just 20 gold pieces! We'll take ya' straight to "
 
 
 The party stumbles into [[Ren'owa Arritheph, Master of Blades]]
