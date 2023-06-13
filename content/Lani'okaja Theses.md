@@ -2,7 +2,7 @@
 title: "Lani'okaja Theses"
 tags:
 - religion
-- religious text
+- religious-text
 ---
 >Thesis of the Air
 

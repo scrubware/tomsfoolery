@@ -1,3 +1,0 @@
-![[Book of Light (Abridged)]]
-
-

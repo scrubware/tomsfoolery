@@ -3,7 +3,7 @@ title: "Book of Light"
 tags:
 - religion
 - storm
-- religious text
+- religious-text
 ---
 >Whimsy
 

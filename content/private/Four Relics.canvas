@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"type":"file","file":"tomsfoolery/content/private/Images/obsidian handkerchief.png","id":"0876fa950ed34ed6","x":-637,"y":31,"width":400,"height":400},
-		{"type":"file","file":"tomsfoolery/content/private/Images/raven pendant.png","id":"4764f0224880954f","x":-237,"y":31,"width":400,"height":400},
-		{"type":"file","file":"tomsfoolery/content/private/Images/glass triamid.png","id":"ed0254e9441f909d","x":-637,"y":-398,"width":400,"height":400},
-		{"type":"file","file":"tomsfoolery/content/private/Images/golden string.png","id":"a7982389d67b4b42","x":-237,"y":-398,"width":400,"height":400}
-	],
-	"edges":[]
-}
